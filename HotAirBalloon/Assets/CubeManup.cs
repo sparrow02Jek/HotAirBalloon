@@ -15,7 +15,7 @@ public class CubeManup : MonoBehaviour
     {
         if(Input.GetMouseButtonDown(0))
         {
-            transform.position = new Vector2(transform.position.x + 15,0);
+            transform.position = new Vector2(transform.position.x + 1,0);
         }
     }
 }

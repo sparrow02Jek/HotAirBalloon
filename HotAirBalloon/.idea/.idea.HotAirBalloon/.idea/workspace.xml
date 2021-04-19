@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6f703bc-6a82-4889-bc3b-bb509a1c45c6" name="Default Changelist" comment="" />
+    <list default="true" id="a6f703bc-6a82-4889-bc3b-bb509a1c45c6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/CubeManup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CubeManup.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1618847689410</updated>
-      <workItem from="1618847689658" duration="247000" />
+      <workItem from="1618847689658" duration="274000" />
     </task>
     <servers />
   </component>
