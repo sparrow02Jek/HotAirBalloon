@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: 6437a455355c7bf42b10cbf1e5dfeab5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4401566830958553400
+    second: game-ui-kit-set-of-cartoon-wooden-circles-vector-24034069-removebg-preview_0
+  - first:
+      213: -6410818879320581564
+    second: game-ui-kit-set-of-cartoon-wooden-circles-vector-24034069-removebg-preview_1
+  - first:
+      213: 7979309489911434358
+    second: game-ui-kit-set-of-cartoon-wooden-circles-vector-24034069-removebg-preview_2
+  - first:
+      213: 8970616938811097982
+    second: game-ui-kit-set-of-cartoon-wooden-circles-vector-24034069-removebg-preview_3
+  - first:
+      213: 794312746576232866
+    second: game-ui-kit-set-of-cartoon-wooden-circles-vector-24034069-removebg-preview_4
+  - first:
+      213: -4391919334139717058
+    second: game-ui-kit-set-of-cartoon-wooden-circles-vector-24034069-removebg-preview_5
+  - first:
+      213: -8326704736604703673
+    second: game-ui-kit-set-of-cartoon-wooden-circles-vector-24034069-removebg-preview_6
+  - first:
+      213: 8876244709787456775
+    second: game-ui-kit-set-of-cartoon-wooden-circles-vector-24034069-removebg-preview_7
+  - first:
+      213: 400370561508470127
+    second: game-ui-kit-set-of-cartoon-wooden-circles-vector-24034069-removebg-preview_8
+  - first:
+      213: -6253564977265379489
+    second: game-ui-kit-set-of-cartoon-wooden-circles-vector-24034069-removebg-preview_9
+  - first:
+      213: -4445355242489293814
+    second: game-ui-kit-set-of-cartoon-wooden-circles-vector-24034069-removebg-preview_10
+  - first:
+      213: 2598838732435157948
+    second: game-ui-kit-set-of-cartoon-wooden-circles-vector-24034069-removebg-preview_11
+  - first:
+      213: 6730950543081379451
+    second: game-ui-kit-set-of-cartoon-wooden-circles-vector-24034069-removebg-preview_12
+  - first:
+      213: 4152265053781884105
+    second: game-ui-kit-set-of-cartoon-wooden-circles-vector-24034069-removebg-preview_13
+  - first:
+      213: -3708678350277313381
+    second: game-ui-kit-set-of-cartoon-wooden-circles-vector-24034069-removebg-preview_14
+  - first:
+      213: -876613908116473076
+    second: game-ui-kit-set-of-cartoon-wooden-circles-vector-24034069-removebg-preview_15
+  - first:
+      213: -7602299011742260256
+    second: game-ui-kit-set-of-cartoon-wooden-circles-vector-24034069-removebg-preview_16
+  - first:
+      213: -6856766443305564320
+    second: game-ui-kit-set-of-cartoon-wooden-circles-vector-24034069-removebg-preview_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: game-ui-kit-set-of-cartoon-wooden-circles-vector-24034069-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 317
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8392d6656b1851d30800000000000000
+      internalID: 4401566830958553400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-kit-set-of-cartoon-wooden-circles-vector-24034069-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 317
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a9abaf1323807a0800000000000000
+      internalID: -6410818879320581564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-kit-set-of-cartoon-wooden-circles-vector-24034069-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 317
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c031374b33cbe60800000000000000
+      internalID: 7979309489911434358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-kit-set-of-cartoon-wooden-circles-vector-24034069-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 317
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7300f5d3980e7c70800000000000000
+      internalID: 8970616938811097982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-kit-set-of-cartoon-wooden-circles-vector-24034069-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 317
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1cd3c0c37f50b00800000000000000
+      internalID: 794312746576232866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-kit-set-of-cartoon-wooden-circles-vector-24034069-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 317
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a9e6e82a4cc03c0800000000000000
+      internalID: -4391919334139717058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-kit-set-of-cartoon-wooden-circles-vector-24034069-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 208
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7443d19a82a917c80800000000000000
+      internalID: -8326704736604703673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-kit-set-of-cartoon-wooden-circles-vector-24034069-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 208
+        width: 77
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70552520981ce2b70800000000000000
+      internalID: 8876244709787456775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-kit-set-of-cartoon-wooden-circles-vector-24034069-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 208
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d6c3987e66e8500800000000000000
+      internalID: 400370561508470127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-kit-set-of-cartoon-wooden-circles-vector-24034069-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 208
+        width: 77
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57f54639cfd639a0800000000000000
+      internalID: -6253564977265379489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-kit-set-of-cartoon-wooden-circles-vector-24034069-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 208
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04510f95fcee42c0800000000000000
+      internalID: -4445355242489293814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-kit-set-of-cartoon-wooden-circles-vector-24034069-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 208
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3f253de0ee01420800000000000000
+      internalID: 2598838732435157948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-kit-set-of-cartoon-wooden-circles-vector-24034069-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 100
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7696195bd3296d50800000000000000
+      internalID: 6730950543081379451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-kit-set-of-cartoon-wooden-circles-vector-24034069-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 100
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ccffe7111fcf9930800000000000000
+      internalID: 4152265053781884105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-kit-set-of-cartoon-wooden-circles-vector-24034069-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 100
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cf98990b0288cc0800000000000000
+      internalID: -3708678350277313381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-kit-set-of-cartoon-wooden-circles-vector-24034069-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 100
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0bfc898b44a5d3f0800000000000000
+      internalID: -876613908116473076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-kit-set-of-cartoon-wooden-circles-vector-24034069-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 100
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3acc8d3553f7690800000000000000
+      internalID: -7602299011742260256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-kit-set-of-cartoon-wooden-circles-vector-24034069-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 100
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06704fe9f3fd7d0a0800000000000000
+      internalID: -6856766443305564320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b23a696a5a0514f449bdf6f174e2c911
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
